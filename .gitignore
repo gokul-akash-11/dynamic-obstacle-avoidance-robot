@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ROS2 colcon
+build/
+install/
+log/
+
+# Models / data
+*.pt
+*.pth
+*.onnx
+*.bag
+*.zip
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
