@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>tracker_kf</name>
+  <version>0.0.0</version>
+  <description>Kalman filter tracker</description>
+  <maintainer email="akash@example.com">akash</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <build_type>ament_python</build_type>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>
