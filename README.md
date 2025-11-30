@@ -133,18 +133,18 @@ Robot moves using Nav2 while avoiding dynamic obstacles.
 
 ---
 
-## © License & copyright
+## 📄 License & copyright
 
 © 2025 Gokul Akash S.
 
 **No open-source license applied. All rights reserved.**  
 
-This repository is publicly visible **for viewing only**.  
-No permission is granted to copy, modify, distribute, or reuse any part of this project without explicit written permission from the author.
+- This repository is publicly visible **for viewing only**.  
+- No permission is granted to copy, modify, distribute, or reuse any part of this project without explicit written permission from the author.
 
 ---
 
-## 🙌 Acknowledgements
+## ⭐ Acknowledgements
 
 - Open-source TurtleBot3 community 
 - Gazebo Harmonic + ROS-GZ bridge 
